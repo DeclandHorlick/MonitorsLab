@@ -1,0 +1,16 @@
+﻿Build started 4/7/2016 12:43:22 AM.
+     1>Project "c:\Users\Jamie\documents\visual studio 2013\Projects\MonitorsDeclandH\MonitorsDeclandH\MonitorsDeclandH.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\SFML\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MonitorsDeclandH.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MonitorsDeclandH.cpp
+         MonitorsDeclandH.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\jamie\documents\visual studio 2013\Projects\MonitorsDeclandH\Debug\MonitorsDeclandH.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\SFML\lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\jamie\documents\visual studio 2013\Projects\MonitorsDeclandH\Debug\MonitorsDeclandH.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\jamie\documents\visual studio 2013\Projects\MonitorsDeclandH\Debug\MonitorsDeclandH.lib" /MACHINE:X86 Debug\monitor.obj
+         Debug\MonitorsDeclandH.obj
+         Debug\player.obj
+         Debug\stdafx.obj
+         MonitorsDeclandH.vcxproj -> c:\users\jamie\documents\visual studio 2013\Projects\MonitorsDeclandH\Debug\MonitorsDeclandH.exe
+     1>Done Building Project "c:\Users\Jamie\documents\visual studio 2013\Projects\MonitorsDeclandH\MonitorsDeclandH\MonitorsDeclandH.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
